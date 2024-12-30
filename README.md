@@ -1,21 +1,26 @@
 Daily JavaScript App - 2 🚀
-To-Do App 🌤️
+
+To-Do App ✍️
+
 This repo was created with the goal of building a JavaScript application every day. My goal is both to improve my JavaScript skills and to gain the habit of writing code continuously. 💻
 
 Goals:
+
 To improve my JavaScript skills.
 To learn new techniques and libraries.
 To gain coding discipline.
+
 📌 About Project
 
 This project retrieves weather information for a city using the OpenWeatherMap API and displays it to the user. The app is built with a simple interface and basic JavaScript.
 
 📌 Features
 
-City-based weather information.
-Instant temperature, humidity and wind speed display.
-Dynamic icons according to weather conditions.
-Error message in case of incorrect city name entry.
+- Adding a task: A warning message is displayed when trying to add an empty task.
+- Task completion: Clicked tasks are marked as “completed”.
+- Deleting a task: You can delete a task by clicking on the cross next to the task.
+- Data storage: Tasks are stored in the browser with **localStorage**.
+
 🚀 Technologies Used
 
 HTML5: Interface structure.
