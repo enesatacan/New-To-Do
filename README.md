@@ -28,4 +28,6 @@ CSS3: Design and styling.
 JavaScript (ES6): Dynamic weather data retrieval and processing.
 OpenWeatherMap API: Providing weather information.
 
+git clone https://github.com/enesatacan/New-To-Do
+
 ![image](https://github.com/user-attachments/assets/b6ec74bd-eea0-4b99-80da-9bad576aeb1e)
